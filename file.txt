@@ -2,3 +2,7 @@
 "B" 
 "C" 
 "resolved conflict"
+"D" 
+"E" 
+"F1" 
+
